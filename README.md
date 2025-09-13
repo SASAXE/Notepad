@@ -1,4 +1,4 @@
-# 📝 Simple Notepad - Java Swing Application
+# 📝 Notepad 
 
 A streamlined text editor built using Java Swing framework as part of an Advanced Programming Techniques assignment. This notepad application demonstrates core GUI programming concepts including menu systems, anonymous inner classes for event handling, file operations, and custom dialog boxes.
 
