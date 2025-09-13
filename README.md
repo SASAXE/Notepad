@@ -180,12 +180,6 @@ This project specifically fulfills university assignment requirements:
 - [ ] Find and Replace functionality
 - [ ] Background color selection option
 
-## 👨‍💻 Author
-
-**Sasanka Hemakumara**
-- Student ID: S16800
-- Course: Advanced Programming Techniques
-- Institution: University Of Colombo
 
 ## 🏗️ Implementation Details
 
@@ -199,16 +193,6 @@ This project specifically fulfills university assignment requirements:
 - `JDialog` - Custom font selection modal
 - `JComboBox`, `JSpinner`, `JCheckBox` - Font chooser controls
 
-### Event Handling Pattern
-```java
-// Example of anonymous inner class pattern used throughout
-menuItem.addActionListener(new ActionListener() {
-    public void actionPerformed(ActionEvent e) {
-        // Action code here
-    }
-});
-```
-
 ## 📄 License
 
 This project is created for educational purposes as part of a university assignment. Feel free to use and modify for learning purposes.
@@ -221,5 +205,11 @@ This project is created for educational purposes as part of a university assignm
 - Assignment guidelines from Advanced Programming Techniques course
 
 ---
+## 👨‍💻 Author
 
+**Sasanka Hemakumara**
+- Student ID: S16800
+- Course: Advanced Programming Techniques
+- Institution: University Of Colombo
+  
 **Ready to run!** No additional setup required - just compile and execute! 🚀
