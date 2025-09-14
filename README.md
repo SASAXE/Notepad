@@ -208,8 +208,5 @@ This project is created for educational purposes as part of a university assignm
 ## 👨‍💻 Author
 
 **Sasanka Hemakumara**
-- Student ID: S16800
-- Course: Advanced Programming Techniques
-- Institution: University Of Colombo
   
 **Ready to run!** No additional setup required - just compile and execute! 🚀
